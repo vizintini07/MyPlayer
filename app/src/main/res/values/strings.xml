@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyPlayerApplication</string>
+
+    <string-array name="music_array">
+        <item>Another one Bites the dust.mp3</item>
+        <item>The show must go on.mp3</item>
+        <item>We will rock you.mp3</item>
+    </string-array>
+
+</resources>
